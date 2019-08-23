@@ -7,6 +7,6 @@ Enter to index test
     :name: Menu
     :caption: MainTree
     
-    DeprecatedDocPage <DeprecatedDocPage>
+    DeprecatedDocPage <NotDeprecatedDocPage>
     SomeDocPage <SomeDocPage>
     
